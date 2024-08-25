@@ -1,4 +1,4 @@
-FROM alpine:3.11.6
+FROM alpine:3.20.0
 
 RUN apk add R R-dev R-doc build-base automake autoconf ttf-freefont
 
